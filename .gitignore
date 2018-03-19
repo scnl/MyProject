@@ -9,12 +9,6 @@
 bin/
 
 
-###My Changes###
-.jar
-build/
-bin/
-
-
 ### STS ###
 .apt_generated
 .classpath
